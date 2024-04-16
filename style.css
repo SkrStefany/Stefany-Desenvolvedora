@@ -383,7 +383,7 @@ a {
 
 
 .teams .title::after{
-    content: "who with me";
+    content: "projetos";
 }
 .teams .carousel .card{
     background: #222;
